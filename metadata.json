@@ -1,0 +1,6 @@
+{
+  "name": "UPI App",
+  "description": "Next-generation UPI payments application featuring instant QR pay, contact transfers, UPI PIN authorization, live transaction passbook, rewards, and audio soundbox.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
